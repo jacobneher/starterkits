@@ -367,3 +367,7 @@ settings[alpha_region_footer_second_columns] = '12'
 settings[alpha_region_footer_second_suffix] = ''
 settings[alpha_region_footer_second_weight] = '2'
 settings[alpha_region_footer_second_css] = ''
+
+; ADDITIONAL DEFAULT SETTINGS
+settings[toggle_main_menu] = 0
+settings[toggle_secondary_menu] = 0
